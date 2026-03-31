@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "自転車",
+  "base_artist": "高木さん(CV:高橋李依)",
+  "createdAt": "2026-03-31T13:25:36.866170Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/01_自転車_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "高木さん (高橋李依)",
+      "has_synced": true,
+      "path": "select/02_自転車_高木さん_(高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "JUDY AND MARY",
+      "has_synced": true,
+      "path": "select/03_自転車_JUDY_AND_MARY.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "ORESKABAND",
+      "has_synced": true,
+      "path": "select/04_自転車_ORESKABAND.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "JUDY AND MARY",
+      "has_synced": false,
+      "path": "select/05_自転車_JUDY_AND_MARY.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/06_自転車_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "自転車 [ORT]",
+      "artist": "菊地真 (CV: 平田宏美)",
+      "has_synced": false,
+      "path": "select/07_自転車_[ORT]_菊地真_(CV__平田宏美).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/08_自転車_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "宇宙まお",
+      "has_synced": false,
+      "path": "select/09_自転車_宇宙まお.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "自転車",
+      "artist": "菊地真",
+      "has_synced": false,
+      "path": "select/10_自転車_菊地真.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "自転車",
+      "artist": "高木さん(高橋李依)",
+      "has_synced": false,
+      "path": "select/pl_01_自転車_高木さん(高橋李依).txt"
+    }
+  ]
+}
